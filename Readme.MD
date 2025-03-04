@@ -6,7 +6,7 @@ Este es la primera versión del proyecto.
 Tecnológico Nacional de México
 Instituto Tecnológico de Pachuca
 Materia:  Taller Avanzado de Desarrollo de Software
-Clase 7 - Clonar repositorio remoto 
+Clase 13 - webApi (Modelo Censo actualizado)
 M.T.I. Santana Valadez Luis Alejandro
 Alumno: 
 Fuentes Ramírez José Antonio
