@@ -4,13 +4,18 @@
 Este es la primera versión del proyecto.
 ----------------------------------------------------
 Tecnológico Nacional de México
+
 Instituto Tecnológico de Pachuca
+
 Materia:  Taller Avanzado de Desarrollo de Software
+
 Clase 13 - webApi (Modelo Censo actualizado)
+
 M.T.I. Santana Valadez Luis Alejandro
-Alumno: 
-Fuentes Ramírez José Antonio
-No. Control: 21200648
+
+Alumno: Fuentes Ramírez José Antonio
+
+Número de Control: 21200648
 
 03 de marzo de 2025
 
